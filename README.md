@@ -2,6 +2,7 @@
 
 All in one container managemenet system, triages errors, digests repo context for suggestions, partition resources
 
+Container management is hard. Why not streamline the process with your own agentic workflow. Reduce the stress during on-call shifts and increase productivity.
 
 ## PLEASE READ THIS to RUN THE HW12 project
 
