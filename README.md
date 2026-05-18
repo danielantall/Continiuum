@@ -1,6 +1,7 @@
-# HW12
+# Continiuum
 
-Description
+All in one container managemenet system, triages errors, digests repo context for suggestions, partition resources
+
 
 ## PLEASE READ THIS to RUN THE HW12 project
 
