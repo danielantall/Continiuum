@@ -1,7 +1,9 @@
 # Continiuum
 
+## Description
 All in one container managemenet system, triages errors, digests repo context for suggestions, partition resources
 
+## Motivation
 Container management is hard. Why not streamline the process with your own agentic workflow. Reduce the stress during on-call shifts and increase productivity.
 
 ## PLEASE READ THIS to RUN THE HW12 project
@@ -9,7 +11,7 @@ Container management is hard. Why not streamline the process with your own agent
 Use pnpm its better and faster for this project especially if ur laptop is slower:
 [Read this link to install pnpm](https://pnpm.io/installation)
 
-### Running the project:
+### Quick Start
 
 ```bash
 pnpm install
